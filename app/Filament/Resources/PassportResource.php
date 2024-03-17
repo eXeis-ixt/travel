@@ -125,30 +125,6 @@ class PassportResource extends Resource
         ];
     }
 
-//     public static function getGlobalSearchResultTitle(Passport $record): string
-// {
-//     return $record->name;
-// }
-
-    // public static function getItemsRepeater(): Repeater{
-
-
-    //    return Repeater::make('passport')->schema([
-
-    //    ]);
-
-
-    // }
-    // public static function getDetailsFormSchema(): array
-    // {
-    //     return [
-
-
-    //     ];
-    // }
-
-
-
 
 
     public static function getPages(): array
